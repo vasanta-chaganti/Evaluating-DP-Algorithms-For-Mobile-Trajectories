@@ -13,21 +13,28 @@ The primary dataset used in this research is the **KTH wireless trace dataset**,
 Below is an overview of the repository's structure:
 
 - **`/LICENSE`**
+
   - Contains the licensing information for the use and distribution of the software and data within this repository.
 
 - **`/README.md`**
+
   - Provides an overview about the project.
-- **`/analyses`**
+
+- **`/evaluation`**
+
   - Contains Jupyter notebooks of our analyses on different DP algorithms.
   - **`/requirements.txt`**: Specifies the Python packages required to run the notebooks and scripts in this directory.
 
 - **`/docs`**
+
   - Documentation related to the project, methodologies, and results.
 
 - **`/sample-inputs`**
+
   - Sample input data files used in our analyses and testing of the algorithms.
 
 - **`/src`**
+
   - Source code of the algorithms.
 
 - **`/synthetic-trajs`**
@@ -38,6 +45,7 @@ Below is an overview of the repository's structure:
 ## Getting Started
 
 To get started with this repository:
+
 1. Clone the repo to your local machine.
 2. Ensure that you have the necessary Python environment set up (see environment requirements in each sub-directory).
 3. Explore the `/data` directory to understand the dataset structures.

@@ -1,3 +1,5 @@
+[source code](https://www.crysys.hu/~acs/)
+
 * DEPENDENCIES:
 numpy, bitarray, progressbar, ngram  
 
