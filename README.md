@@ -23,7 +23,7 @@ Below is an overview of the repository's structure:
 - **`/evaluation`**
 
   - Contains Jupyter notebooks of our analyses on different DP algorithms.
-  - **`/requirements.txt`**: Specifies the Python packages required to run the notebooks and scripts in this directory.
+  - **`requirements.txt`**: Specifies the Python packages required to run the notebooks and scripts in this directory.
 
 - **`/docs`**
 
